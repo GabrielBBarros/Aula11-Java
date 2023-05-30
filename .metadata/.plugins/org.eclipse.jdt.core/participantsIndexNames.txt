@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\gabri\Desktop\Aula11-Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1082312341.index
+\SiteBasico3\src\main\java
+C:\Users\gabri\Desktop\Aula11-Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3365035147.index
+\SiteBasico3\src\main\java
+C:\Users\gabri\Desktop\Aula11-Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3842594459.index
+\SiteBasico2\src\main\java

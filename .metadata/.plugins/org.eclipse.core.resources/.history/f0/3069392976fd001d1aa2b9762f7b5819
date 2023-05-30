@@ -1,0 +1,26 @@
+package com.auxiliar;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+
+public class Servlet extends HttpServlet {
+
+    public Servlet() {
+        super();
+    }
+
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        // Aqui você pode escrever o código para processar as solicitações GET
+        // Recupere parâmetros, execute a lógica de negócios, etc.
+        // Você pode usar o objeto 'response' para fornecer uma resposta ao cliente.
+    }
+
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        // Aqui você pode escrever o código para processar as solicitações POST
+        // Recupere parâmetros, execute a lógica de negócios, etc.
+        // Você pode usar o objeto 'response' para fornecer uma resposta ao cliente.
+    }
+}

@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Processamento do Formulário</title>
+</head>
+<body>
+    <h1>Processamento do Formulário</h1>
+    
+    <%-- Obtém os valores enviados pelo formulário --%>
+    <% String nome = request.getParameter("nome");
+
+    %>
+    
+    <%-- Exibe os valores na página --%>
+    <p>Nome: <%= nome %></p>
+
+</body>
+</html>

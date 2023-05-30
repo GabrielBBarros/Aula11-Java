@@ -1,0 +1,11 @@
+package com.auxiliar;
+
+import javax.servlet.http.HttpServlet;
+
+public class Servlet extends HttpServlet {
+
+	public Servlet() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

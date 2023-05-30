@@ -1,0 +1,36 @@
+
+P
+java:S1128"Remove this duplicated import.(ø©¹…8É£é™†1H3RMINORZ
+CODE_SMELL
+U
+java:S1128"Remove this duplicated import.(û÷Å›ÿÿÿÿÿ8É£é™†1H1RMINORZ
+CODE_SMELL
+ˆ
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(œğÌÿ8É£é™†1H,RMINORZVULNERABILITY
+q
+java:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8ÏØí˜…1H$RMAJORZ
+CODE_SMELL
+k
+java:S1854"9Remove this useless assignment to local variable "email".(»öÃ—8É£é™†1H'RMAJORZ
+CODE_SMELL
+\
+java:S1481"*Remove this unused "email" local variable.(»öÃ—8É£é™†1H(RMINORZ
+CODE_SMELL
+p
+java:S1854"9Remove this useless assignment to local variable "senha".(¤Šşıÿÿÿÿ8É£é™†1H&RMAJORZ
+CODE_SMELL
+P
+java:S1128"Remove this duplicated import.(Á¨ïë8É£é™†1H5RMINORZ
+CODE_SMELL
+U
+java:S1128	"Remove this duplicated import.(ªº»Úıÿÿÿÿ8É£é™†1H-RMINORZ
+CODE_SMELL
+P
+java:S1128
+"Remove this duplicated import.(Š‰™Œ8É£é™†1H/RMINORZ
+CODE_SMELL
+a
+java:S1481"*Remove this unused "senha" local variable.(¤Šşıÿÿÿÿ8É£é™†1H*RMINORZ
+CODE_SMELL
+–
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(å¯©¡8åö„š†1HyRMINORZVULNERABILITY
